@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfolio UKM CC</title>
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="css/bootstrap.css">
+  <!-- CSS -->
+  <link rel="stylesheet" href="css/style.css">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="fontawesome/css/all.css">
+</head>
+
+<body>
+  <div class="container-fluid">
+    <table>
+      <tr>
+        <td id="img"><img src="img/image1.png" alt="" width="70px" ></td>
+        <td></td>
+        <td id="nav">
+          <ul>
+            <li><a id="home" href="">HOME</a></li>
+            <li><a href="">PROFILE</a></li>
+            <li><a href="">PRODI</a></li>
+            <li><a href="">GALERi</a></li>
+            <li><a href="">INTERNASIONAL</a></li>
+            <li><a href="">KONTAK</a></li>
+          </ul>
+        </td>
+        <td>
+          <ul>
+            <li><a id="webpnb" href="">Website PNB</a></li></td>
+          </ul>
+      </tr>
+    </table>
+    <hr>
+    <div class="d-flex justify-items-between">
+      <div>
+        <h3>Profile Singkat</h3>
+        <h1>Jurusan Teknik Elektro</h1>
+    
+      </div>
+      
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta beatae magnam nemo aperiam molestias reprehenderit. Rerum vero, tenetur quam nemo voluptates, corrupti distinctio officia iure tempora a minus, non nisi?</p>
+  
+    </div>
+  </div>
+  
+  
+  <!-- Javascript Bootstrap -->
+  <script src="js/bootstrap.bundle.js"></script>
+</body>
+
+</html>

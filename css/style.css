@@ -1,0 +1,188 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Sora:wght@700&display=swap");
+
+* {
+  font-family: "Inter", sans-serif;
+}
+body {
+  background-color: #272727;
+}
+.navbar-custom{
+  border-bottom: 1px solid #6c7567;
+}
+ul li a.nav-link{
+  color: #c9c9c9;
+}
+ul li a.nav-link:hover{
+  color: #ffff;
+}
+
+.bg-navbar{
+  background-color: #272727;
+}
+.about{
+  color: #4ca9ff;
+  line-height: 60px;
+}
+.content-about{
+  width: 100%;
+}
+
+.img-profile{
+  border: 1px solid #4ca9ff;
+}
+
+.content-biography h4{
+  color: #ffff;
+  letter-spacing: 1px;
+}
+.content-biography p{
+  color: #c9c9c9;
+}
+.content-social a{
+  color: #ffff;
+}
+
+.text-info {
+  
+}
+
+/* card custom */
+.card-custom{
+  width: 50%;
+  margin-left: 5%;
+  background-color: #3b3d3e;
+}
+
+.icon-custom{
+  top: -30px;
+  background-color: #3b3d3e;
+
+}
+
+.card-skill{
+  background-color: #3b3d3e;
+}
+
+.portofolio{
+  padding-top: 50px;
+}
+.portofolio h2 {
+  font-family: "Sora";
+  font-size: 48px;
+}
+.portofolio h3 {
+  font-family: "Sora";
+  font-size: 48px;
+}
+
+.portofolio p{
+  line-height: 25px;
+  align-items: justify;
+}
+
+.tombol :hover{
+  background-color: #62d9ff;
+  color: #ffff;
+}
+.tombol {
+background-color: #323443;
+color: #6c757d;
+}
+
+.border-footer{
+  border-top: 1px solid #fff;
+}
+
+
+.footer {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+
+.footer a{
+  font-size: 28px;
+  color: #ffff;
+}
+
+.heading-text h2,span {
+  color: #ffff;
+  font-family: "Sora";
+  font-size: 48px;
+}
+
+.container-custom {
+  background-color: #323443;
+  width: 98%;
+  border-radius: 7px;
+  height: 20pc;
+  overflow: hidden;
+  
+} 
+.container-custom img{
+  transition: ease .5s;
+}
+.container-custom img:hover{
+  transform: scale(3);
+}
+
+.kotak-arrow {
+  background-color: #32344380;
+  border-radius: 4px;
+  padding: 9px;
+  width: 35px;
+  height: 35px;
+  top: 10px;
+  right: 10px;
+}
+
+.img-arrow{
+  rotate: -45deg;
+  color: #ffff;
+  padding: 3px;
+}
+/* table{
+  width: 100vh;
+}
+tr{
+  justify-content: space-between;
+
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li{
+  float: left;
+}
+
+li a{
+  display: block;
+  color: rgb(26, 26, 26);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover{
+  background-color: rgb(207, 194, 178);
+  border-radius: 10px;
+  color: black;
+}
+
+#home {
+  color: red;
+}
+#webpnb{
+  background-color: red;
+  border-radius: 10px;
+  color: white;
+}
+
+#webpnb:hover {
+  background-color: rgb(192, 5, 5);
+} */
+
